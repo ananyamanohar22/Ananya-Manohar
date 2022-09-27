@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ananya-Manohar
-- 👀 I’m interested in ...coding,photography,drawing,reading
-- 🌱 I’m currently learning ...c language
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...coding,photography,drawing,reading,Web development
+- 🌱 I’m currently learning ...DSA,Java Script and web development
+- 💞️ I’m looking to collaborate on ... WEB DEVELPOMENT (FRONT END)
 - 📫 How to reach me ...email: ananyamanohar22@gmail.com
 
 <!---
